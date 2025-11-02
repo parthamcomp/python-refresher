@@ -57,5 +57,4 @@ You can then choose to:
 - The executable should be located in the dist directory
 
 
-Created by: Partho Mitra
-Built with: ❤️ using Python and PyGame
+Created by: Parthasarathi Mitra
