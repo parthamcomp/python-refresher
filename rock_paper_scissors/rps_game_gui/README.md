@@ -28,6 +28,10 @@ You can then choose to:
 - 🔁 **Restart** — start a new set of rounds  
 - ❌ **Quit** — exit the game  
 
+### Screenshots
+![Gameplay Screenshot](assets/screenshots/gameplay_result.png)
+![Scoreboard Screenshot](assets/screenshots/scoreboard.png)
+
 ---
 
 ## How to Run the Game
