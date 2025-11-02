@@ -9,7 +9,7 @@ This version features:
 
 ---
 
-## 🕹️ Gameplay Overview
+## Gameplay Overview
 
 Click on one of the emoji options at the bottom to make your move:
 
@@ -30,7 +30,7 @@ You can then choose to:
 
 ---
 
-## 🚀 How to Run the Game
+## How to Run the Game
 
 ### Run the Python Source
 
